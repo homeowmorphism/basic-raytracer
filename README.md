@@ -1,3 +1,5 @@
+## Run
+
 ```
-python playscene.py
+python display_scene.py
 ```
