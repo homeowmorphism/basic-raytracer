@@ -1,6 +1,6 @@
 This Python raytracer was implemented with easiness of reading and simplicity in mind. 
 
-### Features
+## Features
 
 * Diffuse light.
 
