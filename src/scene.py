@@ -60,7 +60,7 @@ class Scene(object):
 
                 lambertian = reflected_ray.inner(normal)
 
-                epsilon = 1
+                epsilon = 1 # by pushing the ray's starting point by epsilon, we prevent the ray from tracing to its own starting point.
 
                 return lambertian*albedo.compwise_mult(self.ray_trace(new_origin + (epsilon*reflected_ray), reflected_ray))
 
