@@ -1,4 +1,4 @@
-This Python raytracer was implemented with easiness of reading and simplicity in mind. 
+This Python raytracer was implemented to be easy to understand. It does not have many features and is not optimized for performance, but can hopefully serve as a basis and tool for prototyping for a more intricate implementation in another language. 
 
 ## Features
 
