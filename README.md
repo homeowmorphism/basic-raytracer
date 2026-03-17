@@ -13,3 +13,5 @@ A basic Python raytracer. This Python raytracer was implemented to be easy to un
 ```
 python display_scene.py
 ```
+## Acknowledgements 
+This project was conducted during Summer 2017 at the Recurse Center under the tutelage of [Tim Babb](https://www.bzarg.com/)'s workshop. 
